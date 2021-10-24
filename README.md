@@ -25,6 +25,6 @@ The choices for inType and outType are:
 9 Specific Volume          ft^3/lbm or m^3/kg dry air
 10 Moist Air Density       lb/ft^3 or m^3/kg
 
-The evaporation function evap.h should be a fork to pool water evaporation and/or hydronic snowmelt calculator
+The evaporation function evap.h may be a fork to pool water evaporation and/or hydronic snowmelt calculator
 
-Duct fittings and pressure losses should be a fork to Munual Q method
+Duct fittings and pressure losses may be a fork to Munual Q method
